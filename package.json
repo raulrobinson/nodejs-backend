@@ -8,7 +8,6 @@
     "serve": "nodemon index.js"
   },
   "keywords": [
-    "solomon",
     "api",
     "backend",
     "nodejs",
