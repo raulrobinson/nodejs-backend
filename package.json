@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-solomon-backend",
+  "name": "nodejs-backend",
   "version": "1.0.0",
-  "description": "API REST Nodejs for SOLOMON Monitor",
+  "description": "API REST with Nodejs, Sequelize & MySQL.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
